@@ -1,37 +1,45 @@
 {
   "series": {
-    "title": "THE SANDHYA CYCLE",
+    "title": "THE FINAL CUT",
     "subtitle": "Fractured Cynicism",
-    "tagline": "A series spanning over timelines with noir , cosmic horror and cyberpunk",
+    "tagline": "A war thriller series",
     "badge": "Series",
-    "synopsis": "A series spanning over timelines with noir , cosmic horror and cyberpunk",
+    "synopsis": "War torn landscape and the horrors captured by a film crew",
     "accentColor": "#C8832A",
     "accentDim": "#7A4E18"
   },
   "books": [
     {
       "id": 1,
-      "slug": "Sandhya cycle 1",
-      "title": "ASHES OF THE THIRTEENTH YEAR",
-      "subtitle": "Novel",
-      "file": "books/Sandhya cycle 1 ASHES OF THE THIRTEENTH YEAR.txt",
-      "setting": "Vedic India"
+      "slug": "THE FINAL CUT PART 1",
+      "title": "THE ARRIVAL",
+      "subtitle": "Novella",
+      "file": "books/PART ONE - THE ARRIVAL.txt",
+      "setting": "DURAND LINE PRESENT DAY"
     },
         {
       "id": 2,
-      "slug": "Sandhya cycle 2",
-      "title": "VENOM OF THE AGE",
-      "subtitle": "Novel",
-      "file": "books/Sandhya cycle 2 VENOM OF THE AGE.txt",
-      "setting": "Vedic India"
+      "slug": "THE FINAL CUT PART 2",
+      "title": "THE PATTERN",
+      "subtitle": "Novella",
+      "file": "books/PART TWO - THE PATTERN.txt",
+      "setting": "DURAND LINE PRESENT DAY"
     },
         {
       "id": 3,
-      "slug": "Sandhya cycle 3",
-      "title": "THE TORTOISE BACK",
-      "subtitle": "Novel",
-      "file": "books/Sandhya cycle 3 THE TORTOISE BACK.txt",
-      "setting": "Future"
+      "slug": "THE FINAL CUT PART 3",
+      "title": "THE REVELATION",
+      "subtitle": "Novella",
+      "file": "books/PART THREE - THE REVELATION.txt",
+      "setting": "DURAND LINE PRESENT DAY"
+    },
+            {
+      "id": 4,
+      "slug": "THE FINAL CUT PART 4",
+      "title": "THE ENDGAME",
+      "subtitle": "Novella",
+      "file": "books/PART FOUR - THE ENDGAME.txt",
+      "setting": "DURAND LINE PRESENT DAY"
     }
   ]
 }
